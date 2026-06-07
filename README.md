@@ -46,3 +46,7 @@ a new dataset named HuCOD (Human COD) is created, which is comprised of 2 genera
 # Citation
 
 # Contact Information
+Khurram shehzad : Khurram.ch06@gmail.com / Arizon45@yahoo.com
+Saeed ur Rehman : srehman@ciitwah.edu.pk
+Muhammad Fayyaz : fayyaz.uos@gmail.com
+
