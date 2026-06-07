@@ -22,6 +22,7 @@ www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/https://www.kagg
 https://www.kaggle.com/datasets/aalihhiader/military-camouflage-soldiers-dataset-mcs1k
 
 Military - Hidden Human - Dataset - Google Drive
+(https://drive.google.com/drive/u/2/folders/1V8TdUEiUQDa3SZGTATRFXTmlvq0dms5A)
 
 # Training Procedure
 
