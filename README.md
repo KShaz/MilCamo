@@ -14,9 +14,13 @@ Participating photos were stored on Google Cloud bucket and standardized to a re
 
 # Datasets 
 https://www.kaggle.com/datasets/ivanomelchenkoim11/camo-dataset
+
 https://www.kaggle.com/datasets/ismailelomarialaoui/cod10k
+
 www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/https://www.kaggle.com/datasets/ivanomelchenkoim11/nc4k-dataset
+
 https://www.kaggle.com/datasets/aalihhiader/military-camouflage-soldiers-dataset-mcs1k
+
 Military - Hidden Human - Dataset - Google Drive
 
 # Training Procedure
