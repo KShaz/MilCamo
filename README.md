@@ -1,4 +1,4 @@
-<img width="994" height="621" alt="image" src="https://github.com/user-attachments/assets/d34cd312-2369-4e12-88f3-a12fefb89bea" /># Title
+# Title
 
 MilCamo: A Lightweight Transformer-Based Framework for Human Camouflage Detection
 
@@ -25,12 +25,23 @@ Military - Hidden Human - Dataset - Google Drive
 (https://drive.google.com/drive/u/2/folders/1V8TdUEiUQDa3SZGTATRFXTmlvq0dms5A)
 
 a new dataset named HuCOD (Human COD) is created, which is comprised of 2 general categories: M_ denotes Military, and NM_ denotes Non-Military humans, with the same image name as in the original dataset. E.g., M_ACD1K_image517.jpg shows the following pattern: M_ indicates military-specific, and the dataset name and image name are the same as in the original dataset.
-# Training Procedure
+#  Procedure
 <img width="994" height="621" alt="image" src="https://github.com/user-attachments/assets/cceb94e7-252f-4843-a579-d9fafb7a5ce5" />
 
-# Testing Procedure
-
 # Results
+<img width="1038" height="474" alt="image" src="https://github.com/user-attachments/assets/31940805-c108-48b8-8d51-f6bc37025f80" />
+
+<img width="980" height="204" alt="image" src="https://github.com/user-attachments/assets/589d4eb9-d9dc-4d33-838e-9ee89579db48" />
+
+
+<img width="789" height="859" alt="image" src="https://github.com/user-attachments/assets/71df7e39-063f-47c6-9ef1-a1f1fe1c1bea" />
+
+<img width="570" height="294" alt="image" src="https://github.com/user-attachments/assets/8f5e3bb0-88cf-4282-8c25-03eeb5b72f7d" />
+
+<img width="812" height="693" alt="image" src="https://github.com/user-attachments/assets/86aeca60-fbf6-4889-aea7-f42977e97046" />
+
+<img width="942" height="863" alt="image" src="https://github.com/user-attachments/assets/422f1c49-27d5-4da6-b6b6-fd6bb31d2938" />
+
 
 # Citation
 
