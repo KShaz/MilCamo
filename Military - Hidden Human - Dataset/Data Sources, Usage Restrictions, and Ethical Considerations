@@ -5,13 +5,15 @@ The Military Hidden Human Dataset (HuCOD) was constructed using a combination of
 
 publicly available camouflage and camouflaged human datasets;
 images collected from publicly accessible internet sources;
-manually curated samples representing military and non-military camouflage scenarios.
 
 No classified, confidential, proprietary, or restricted military imagery was used in the construction of this dataset.
 
 Annotation Procedure
 
-Images were manually reviewed and annotated to identify camouflaged human targets. Binary segmentation masks and corresponding labels were generated through manual annotation and subsequent verification procedures. The annotation process focused on accurately delineating visible human regions while preserving challenging camouflage characteristics.
+Images were manually reviewed and annotated to identify camouflaged human targets as already defined in publicly avialable images.
+images with not such data has been manually reviewed and anotations are made avialable.
+Binary segmentation masks and corresponding labels were generated through manual annotation and subsequent verification procedures. 
+The annotation process focused on accurately delineating visible human regions while preserving challenging camouflage characteristics.
 
 Intended Use
 
