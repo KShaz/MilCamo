@@ -42,7 +42,7 @@ The exact training, validation, and testing partitions used in the experiments a
 These files contain the complete image lists used to reproduce the experimental results reported in the manuscript.
 
 # Citation
-
+----
 # Contact Information
 Khurram shehzad : Khurram.ch06@gmail.com / Arizon45@yahoo.com
 
