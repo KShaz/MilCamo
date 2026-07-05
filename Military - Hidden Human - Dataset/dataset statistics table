@@ -9,3 +9,7 @@
 | Test images                    | 420                                 |
 | Annotation type                | Binary masks                        |
 | Image sources                  | Public datasets + public web images |
+| Image Resolution               | Variable(e.g.,256×256 to 1024×1024)
+                                 | as avialable in origional public datasets
+
+: 
