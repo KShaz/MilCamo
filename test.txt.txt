@@ -1,0 +1,17 @@
+✓ model loading
+✓ custom objects loading
+✓ preprocess_image()
+✓ test dataset creation
+✓ batch prediction
+✓ model.evaluate()
+✓ prediction generation
+✓ prediction saving
+
+
+
+
+python test.py \
+    --weights weights/MilCamo.keras \
+    --dataset datasets/HuCOD/Test \
+    --output predictions/
+

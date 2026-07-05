@@ -1,0 +1,17 @@
+✓ TPU/GPU initialization
+✓ Mixed precision setup
+✓ Dataset loading
+✓ Model creation
+✓ Optimizer definition
+✓ Loss assignment
+✓ Callbacks
+✓ Checkpoint saving
+✓ TensorBoard logging
+✓ model.fit()
+✓ Model saving
+
+python train.py \
+    --dataset HuCOD \
+    --epochs 100 \
+    --batch_size 32 \
+    --lr 1e-4
