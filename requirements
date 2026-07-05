@@ -6,3 +6,14 @@ scikit-image
 scikit-learn
 pandas
 tqdm
+tensorflow==2.17.0
+keras==3.5.0
+numpy
+opencv-python
+scipy
+matplotlib
+pandas
+tqdm
+scikit-image
+scikit-learn
+albumentations
