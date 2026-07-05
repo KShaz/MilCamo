@@ -1,0 +1,14 @@
+## Reproducibility Checklist
+
+✓ Source code
+✓ Training scripts
+✓ Inference scripts
+✓ Evaluation scripts
+✓ Dataset split files
+✓ Annotation guidelines
+✓ Dataset statistics
+✓ Ethics statement
+✓ Military image restrictions
+✓ Requirements file
+✓ Pretrained weights
+✓ Experimental results
