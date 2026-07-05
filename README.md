@@ -7,6 +7,17 @@ MilCamo: A Lightweight Transformer-Based Framework for Human Camouflage Detectio
 
 A great degree of similarity between target object and background in an image remains on in every of the most difficult tasks in computer vision. This paper proposed a new technique of segmentation of human-imported objects, backbone of this methodology is Global Context Visual Transformer (GCVT). To address the complex aspects of camouflage like occlusion, mixing with background, color similarity; proposed model incorporates advanced concepts such as patch embedding (vertical) mix with powerful encoders, global query mechanisms and characterize smoothing feature’s module. Decoder has been incorporated with cross and self attributes, pathing and pass-through to restore articulated edges of objects gradually. ..........
 # Requirements
+tensorflow==2.17.0
+keras==3.5.0
+numpy
+opencv-python
+scipy
+matplotlib
+pandas
+tqdm
+scikit-image
+scikit-learn
+albumentations
 pip install -r requirements.txt
 # Installation
 The TensorFlow framework was used to create and construct our model, which was then run on the TPUv5 provided by Google Colab.
