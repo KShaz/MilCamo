@@ -18,6 +18,7 @@ tqdm
 scikit-image
 scikit-learn
 albumentations
+
 pip install -r requirements.txt
 # Installation
 The TensorFlow framework was used to create and construct our model, which was then run on the TPUv5 provided by Google Colab.
