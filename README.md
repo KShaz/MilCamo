@@ -29,8 +29,7 @@ Military - Hidden Human - Dataset - Google Drive
 
 a new dataset named HuCOD (Human COD) is created, which is comprised of 2 general categories: M_ denotes Military, and NM_ denotes Non-Military humans, with the same image name as in the original dataset. E.g., M_ACD1K_image517.jpg shows the following pattern: M_ indicates military-specific, and the dataset name and image name are the same as in the original dataset.
 #  Procedure
-<img width="994" height="621" alt="image" src="https://github.com/user-attachments/assets/cceb94e7-252f-4843-a579-d9fafb7a5ce5" />
-
+see models/diagram.md
 # Results
 see results/ readme.md
 
