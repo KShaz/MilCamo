@@ -1,0 +1,8 @@
+This file contains the complete MilCamo model construction extracted from your notebook:
+
+GCViT backbone initialization
+Pretrained weight loading
+Skip connections
+Decoder stages
+Final segmentation head
+Construction of the final keras.Model
