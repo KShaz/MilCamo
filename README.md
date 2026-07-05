@@ -15,6 +15,7 @@ Participating photos were stored on Google Cloud bucket and standardized to a re
 
 # Datasets 
 for DATASET DETAILS   DATASETS/DATASET.md
+
 https://www.kaggle.com/datasets/ivanomelchenkoim11/camo-dataset
 
 https://www.kaggle.com/datasets/ismailelomarialaoui/cod10k
