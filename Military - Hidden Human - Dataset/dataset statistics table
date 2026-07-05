@@ -1,1 +1,11 @@
 
+| Category                       | Count                               |
+| ------------------------------ | ----------------------------------- |
+| Total images                   | XXX                                 |
+| Military camouflage images     | XXX                                 |
+| Non-military camouflage images | XXX                                 |
+| Training images                | XXX                                 |
+| Validation images              | XXX                                 |
+| Test images                    | XXX                                 |
+| Annotation type                | Binary masks                        |
+| Image sources                  | Public datasets + public web images |
