@@ -9,7 +9,7 @@ python train.py
 # Testing
 
 python test.py \
-    --weights weights/MilCamo.keras
+    --weights weights/MilCamo.h5
 
 # Evaluation
 
