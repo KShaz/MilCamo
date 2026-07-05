@@ -1,0 +1,8 @@
+## Training Configuration
+
+- Input size: 224×224
+- Batch size: 32
+- Epochs: 100
+- Optimizer: AdamW
+- Learning rate: 1e-4
+- Hardware: Google TPU v3-8
