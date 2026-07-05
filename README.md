@@ -42,6 +42,13 @@ a new dataset named HuCOD (Human COD) is created, which is comprised of 2 genera
 
 <img width="942" height="863" alt="image" src="https://github.com/user-attachments/assets/422f1c49-27d5-4da6-b6b6-fd6bb31d2938" />
 
+Dataset Splits:
+The exact training, validation, and testing partitions used in the experiments are provided in the Datasets directory through the files:
+- train.txt
+- val.txt
+- test.txt
+
+These files contain the complete image lists used to reproduce the experimental results reported in the manuscript.
 
 # Citation
 
