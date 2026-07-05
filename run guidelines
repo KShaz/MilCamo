@@ -1,0 +1,17 @@
+# Environment
+Python 3.11
+TensorFlow 2.17
+
+pip install -r requirements.txt
+
+# Training
+python train.py \
+    --dataset HuCOD \
+    --batch_size 32 \
+    --epochs 100 \
+    --lr 1e-4
+
+# Testing
+python test.py \
+    --weights weights/milcamo_best.h5 \
+    --dataset HuCOD
