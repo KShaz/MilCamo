@@ -61,7 +61,8 @@ The exact training, validation, and testing partitions used in the experiments a
 - test.txt
 
 These files contain the complete image lists used to reproduce the experimental results reported in the manuscript.
-
+# Retrain
+python train.py
 # Citation
 ----
 # Contact Information
