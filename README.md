@@ -46,10 +46,9 @@ www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/https://www.kagg
 
 https://www.kaggle.com/datasets/aalihhiader/military-camouflage-soldiers-dataset-mcs1k
 
-Military - Hidden Human - Dataset - Google Drive
+Military - Hidden Human - Dataset  a Compiled dataset - description can be found on Google Drive and also in Dataset Directory 
 (https://drive.google.com/drive/u/2/folders/1V8TdUEiUQDa3SZGTATRFXTmlvq0dms5A)
 
-a new dataset named HuCOD (Human COD) is created, which is comprised of 2 general categories: M_ denotes Military, and NM_ denotes Non-Military humans, with the same image name as in the original dataset. E.g., M_ACD1K_image517.jpg shows the following pattern: M_ indicates military-specific, and the dataset name and image name are the same as in the original dataset.
 #  Procedure
 see models/diagram.md
 # Results
