@@ -47,7 +47,7 @@ www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/https://www.kagg
 https://www.kaggle.com/datasets/aalihhiader/military-camouflage-soldiers-dataset-mcs1k
 
 Military - Hidden Human - Dataset  a Compiled dataset - description can be found on Google Drive and also in Dataset Directory 
-(https://drive.google.com/drive/u/2/folders/1V8TdUEiUQDa3SZGTATRFXTmlvq0dms5A)
+(https://drive.google.com/drive/folders/1-pSfTflvmhU6yxOL8Yc_migNm_u7aAWu?usp=drive_link)
 
 #  Procedure
 see models/diagram.md
