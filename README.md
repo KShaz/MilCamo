@@ -4,15 +4,25 @@ This is the official PyTorch implementation of MilCamo, a Lightweight Transforme
 
 # Requirements
 tensorflow==2.17.0
+
 keras==3.5.0
+
 numpy
+
 opencv-python
+
 scipy
+
 matplotlib
+
 pandas
+
 tqdm
+
 scikit-image
+
 scikit-learn
+
 albumentations
 
 pip install -r requirements.txt
