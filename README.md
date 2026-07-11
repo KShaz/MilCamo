@@ -2,6 +2,7 @@
 
 MilCamo: A Lightweight Transformer-Based Framework for Human Camouflage Detection
 
+This is the official PyTorch implementation of MilCamo, a Lightweight Transformer-Based framework designed for camouflaged object detection (COD) across four datasets (CAMO, COD10K, CHAMELEON, NC4K, ACD1K and a compiled dataset HuCOD).
 
 # Requirements
 tensorflow==2.17.0
