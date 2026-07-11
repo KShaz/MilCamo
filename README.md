@@ -25,8 +25,9 @@ scikit-learn
 
 albumentations
 
-pip install -r requirements.txt
 # Installation
+pip install -r requirements.txt
+
 The TensorFlow framework was used to create and construct our model, which was then run on the TPUv5 provided by Google Colab.
 consult Reproducibility / REPRODUCE.md 
 # Dataset Preparation
