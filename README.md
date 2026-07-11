@@ -31,7 +31,9 @@ pip install -r requirements.txt
 The TensorFlow framework was used to create and construct our model, which was then run on the TPUv5 provided by Google Colab.
 consult Reproducibility / REPRODUCE.md 
 # Dataset Preparation
-Participating photos were stored on Google Cloud bucket and standardized to a resolution of 224 × 224 pixels for training, which is regarded as a machine learning sweet spot.
+standardized to a resolution of 224 × 224 pixels for training. 
+
+# Weight File
 
 # Datasets 
 for DATASET DETAILS   DATASETS/DATASET.md
