@@ -38,9 +38,12 @@ standardized to a resolution of 224 × 224 pixels for training.
 # Datasets 
 for DATASET DETAILS   DATASETS/DATASET.md
 
-COCO DATASET <a href="https://www.kaggle.com/datasets/ivanomelchenkoim11/camo-dataset"> Download Link</a> 
+# COCO DATASET 
 
-https://www.kaggle.com/datasets/ismailelomarialaoui/cod10k
+<a href="https://www.kaggle.com/datasets/ivanomelchenkoim11/camo-dataset"> Download Link</a> 
+# COD10K
+
+<a href="https://www.kaggle.com/datasets/ismailelomarialaoui/cod10k"> Download Link</a> 
 
 www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/https://www.kaggle.com/datasets/ivanomelchenkoim11/nc4k-dataset
 
