@@ -46,7 +46,7 @@ for DATASET DETAILS   DATASETS/DATASET.md
 
   ACD1K               <a href="https://www.kaggle.com/datasets/aalihhiader/military-camouflage-soldiers-dataset-mcs1k"> Download Link</a> 
 
-  NC4K                 <a href="https://www.kaggle.com/datasets/aalihhiader/military-camouflage-soldiers-dataset-mcs1k"> Download Link</a> 
+  NC4K                 <a href="https://www.kaggle.com/datasets/ivanomelchenkoim11/nc4k-dataset"> Download Link</a> 
 
   HuCOD - description can be found on Google Drive and also in Dataset Directory     <a href="https://drive.google.com/drive/folders/1-pSfTflvmhU6yxOL8Yc_migNm_u7aAWu?usp=drive_link"> Description Link</a>
 
