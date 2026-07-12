@@ -38,17 +38,17 @@ standardized to a resolution of 224 × 224 pixels for training.
 # Datasets 
 for DATASET DETAILS   DATASETS/DATASET.md
 
-  # COCO DATASET 
+  COCO DATASET 
 
   <a href="https://www.kaggle.com/datasets/ivanomelchenkoim11/camo-dataset"> Download Link</a> 
-  # COD10K
+  COD10K
 
   <a href="https://www.kaggle.com/datasets/ismailelomarialaoui/cod10k"> Download Link</a> 
 
-  # CHAMELEON
+  HAMELEON
   <a href="www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/https://www.kaggle.com/datasets/ivanomelchenkoim11/nc4k-dataset"> Download Link</a> 
 
-  # ACD1K
+  ACD1K
  <a href="https://www.kaggle.com/datasets/aalihhiader/military-camouflage-soldiers-dataset-mcs1k"> Download Link</a> 
 
   HuCOD - description can be found on Google Drive and also in Dataset Directory 
